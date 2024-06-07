@@ -1,3 +1,4 @@
+//emonstarte the use of the previous State
 import React, { useState } from 'react'
 
 const Counter = () => {
