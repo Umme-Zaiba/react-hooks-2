@@ -1,6 +1,7 @@
 // import Counter from "./components/useState/Counter";
 import './App.css'
-import HookCounter from './components/useEffect/HookCounter';
+// import HookCounter from './components/useEffect/HookCounter';
+import HookCounter2 from './components/useEffect/HookCounter2';
 // import ObjectState from './components/useState/ObjectState';
 // import Prevstate from "./components/useState/Prevstate";
 // import Array from './components/useState/Array';
@@ -14,7 +15,8 @@ function App() {
         {/* <Array/> */}
 
       {/* USEFFECT */}
-      <HookCounter/>
+      {/* <HookCounter/> */}
+      <HookCounter2/>
     </div>
   );
 }
