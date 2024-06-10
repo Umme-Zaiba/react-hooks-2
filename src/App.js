@@ -15,13 +15,8 @@ function App() {
         {/* <Array/> */}
 
       {/* USEFFECT */}
-<<<<<<< HEAD
-      {/* <HookCounter/> */}
-      <HookCounter2/>
-=======
-  
-      <HookCounter/>
->>>>>>> origin/main
+      {/* <HookCounter/> */} 
+      <HookCounter2/> 
     </div>
   );
 }
