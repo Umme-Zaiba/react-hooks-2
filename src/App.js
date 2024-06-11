@@ -15,8 +15,18 @@ function App() {
         {/* <Array/> */}
 
       {/* USEFFECT */}
+
       {/* <HookCounter/> */} 
       <HookCounter2/> 
+
+
+      {/* <HookCounter/> */}
+      <HookCounter2/>
+
+  
+      <HookCounter/>
+
+
     </div>
   );
 }
